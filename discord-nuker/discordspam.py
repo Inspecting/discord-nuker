@@ -66,7 +66,7 @@ try:
         if message_count % 50 == 0:
             print("Pausing for cooldown...")
             for i in range(cooldown_time, 0, -1):
-                print(f"\rResuming message sending in {i} seconds...", end="")
+                print(f"{Fore.YELLOW}\rResuming message sending in {i} seconds...", end="")
                 time.sleep(1)
             print("\n") 
 
