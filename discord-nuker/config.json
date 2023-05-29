@@ -1,9 +1,17 @@
 {
     "discord": {
-        "url": "Enter message url here.",
-        "authorization": "Enter your authorization here.",
-        "message": "Message you want to get sent."
+        "message_list": [
+            {
+                "url": "https://discord.com/api/v9/channels/CHANNEL-ID-HERE/messages",
+                "message": "Message"
+            },
+            {
+                "url": "https://discord.com/api/v9/channels/CHANNEL-ID-HERE/messages",
+                "message": "Message"
+            }
+        ],
+        "authorization": "DISCORD AUTHORIZATION TOKEN HERE"
     },
     "delay": 0.25,
-    "cooldown_time": 60
+    "cooldown_time": 30
 }
