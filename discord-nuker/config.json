@@ -1,0 +1,9 @@
+{
+    "discord": {
+        "url": "Enter message url here.",
+        "authorization": "Enter your authorization here.",
+        "message": "Message you want to get sent."
+    },
+    "delay": 0.25,
+    "cooldown_time": 60
+}

@@ -1,0 +1,2 @@
+py discordspam.py
+pause
