@@ -1,3 +1,5 @@
+Join my discord and there you can give me suggestions on what to add. https://discord.gg/DfW4y6tNVn
+
 This bot is not for malicious intent and is only for testing purposes. This can be bannable on discord if you use this for anything malicous. Use at your own risk.
 
 This is a discord nuker bot. It is very easy to use. I will provide a tutorial on how to get the channel id and authorization. Getting url and authorization requires web version of discord.
