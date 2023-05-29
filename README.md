@@ -15,3 +15,5 @@ You need to copy NUMBERS2, the very last numbers of the link. Paste those number
 
 How to get authorization?
 First you need to go onto any channel you want. Open inspect element and go to network. After that send a random message in the server and you should see something called "messages" appear in the network. If you don't see it or the messages won't send to the channel just wait a second or retry to send the message until you see "messages". Click on messages and and you should be under headers. If you aren't then make sure you are. Scroll down until you see Request Headers and after you find that you will see something called authorization not to far under that. Copy the authorization message and replace it there it says "DISCORD AUTHORIZATION TOKEN HERE". Make sure to save the config and you should be done. double click on "run" and it should start. You need the python installed into path.
+
+If you are confused on how to do it, join my discord and I'll tell you the steps on how to get everything running.
