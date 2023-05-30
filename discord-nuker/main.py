@@ -87,5 +87,5 @@ finally:
     runtime = time.time() - start_time
     print(f"Session runtime: {datetime.timedelta(seconds=runtime)}")
 
-    print(f"{Fore.YELLOW}Discord message sender stopped.{Fore.RESET}")
-    logging.info("Discord message sender stopped.")
+    print(f"{Fore.YELLOW}Nebula Nuker stopped.{Fore.RESET}")
+    logging.info("Nebula Nuker stopped.")
