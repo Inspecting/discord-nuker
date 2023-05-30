@@ -87,5 +87,5 @@ finally:
     runtime = time.time() - start_time
     print(f"Session runtime: {datetime.timedelta(seconds=runtime)}")
 
-    print(f"{Fore.YELLOW}Nebula Nuker stopped.{Fore.RESET}")
+    print(f"{Fore.MAGENTA}Nebula Nuker stopped.{Fore.RESET}")
     logging.info("Nebula Nuker stopped.")
