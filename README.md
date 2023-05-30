@@ -2,6 +2,8 @@ Join my discord https://discord.gg/DfW4y6tNVn
 
 This bot is not for malicious intent and is only for testing purposes. This can be bannable on discord if you use this for anything malicous. Use at your own risk.
 
+This is best use for getting xp or leveling up in a server if they allow spamming. You can go onto different channels or servers to talk or check something and the bot will still spam in the specified channel you want it to. It just runs in the background.
+
 This is a discord nuker bot. It is very easy to use. I will provide a tutorial on how to get the channel id and authorization. Getting url and authorization requires web version of discord.
 
 Requirments:
