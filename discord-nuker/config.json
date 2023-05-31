@@ -12,6 +12,28 @@
         ],
         "authorization": "DISCORD AUTHORIZATION TOKEN HERE"
     },
-    "delay": 0.25,
-    "cooldown_time": 30
+    "delay": 10,
+    "message_limit": 50,
+    "cooldown_time": 30,
+    "send_count": 1
+}
+
+{
+    "discord": {
+        "message_list": [
+            {
+                "url": "https://discord.com/api/v9/channels/CHANNEL-ID-HERE/messages",
+                "message": "Message"
+            },
+            {
+                "url": "https://discord.com/api/v9/channels/CHANNEL-ID-HERE/messages",
+                "message": "Message"
+            }
+        ],
+        "authorization": "DISCORD AUTHORIZATION TOKEN HERE"
+    },
+    "delay": 0.5
+    "message_limit": 75
+    "cooldown_time": 30,
+    "send_count": 1
 }
