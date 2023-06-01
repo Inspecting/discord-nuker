@@ -1,3 +1,4 @@
 - Added auto refresh in case the bot freezes
-- Massive speed increase. Many rate limits (Do not use for a long amount of time, discord only allowed 10,000 requests every 10 minutes.
-After using for at least 1 minute if you use the fast option then wait 10 minutes before using again.)
+- Massive speed increase. Many rate limits when fast so not the best. (Do not use for a long amount of time, discord only allows 10,000 requests every 10 minutes.
+After using for at least 1 minute if you use the fast option then wait 10 minutes before using again.
+If you do accidently reach the 10,000 requests limit you will be blocked from accessing discord for only 30m-1 hour)
