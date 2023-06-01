@@ -1,4 +1,4 @@
-# Made by phantomonic#7836
+#Made by phantomonic#7836
 
 import requests
 import time
@@ -89,7 +89,7 @@ async def main():
                 print(f"{Fore.YELLOW}\rResuming message sending in {i} seconds...", end="")
                 await asyncio.sleep(1)
             print("\n")
-        if message_count % (message_limit // 10) == 0:
+        if message_count % (message_limit // 5) == 0:
             # Clear console after every 10% of message limit
             os.system('cls' if os.name == 'nt' else 'clear')
             print(f"{Fore.GREEN}Running.{Fore.RESET}\n")
