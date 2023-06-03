@@ -1,4 +1,4 @@
-Join my discord https://discord.gg/DfW4y6tNVn
+Join my discord https://discord.gg/DfW4y6tNVn for the Nebula Nuker discord bot instead of the regular message spammer.
 
 This bot is not for malicious intent and is only for testing purposes. This can be bannable on discord if you use this for anything malicous. Use at your own risk.
 
