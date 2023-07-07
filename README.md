@@ -1,5 +1,3 @@
-Join my discord https://discord.gg/DfW4y6tNVn for the Nebula Nuker discord bot instead of the regular message bot. If you use the discord bot version then the user can't tell who sent the message. They have to be in the server that the Nebula Nuker discord bot is in though for it to successfully send a message to the user.
-
 This bot is not for malicious intent and is only for testing purposes. This can be bannable on discord if you use this for anything malicous. Use at your own risk.
 
 This is best use for getting xp or leveling up in a server if they allow spamming. This can run in the background so feel free to do whatever you want on discord while it is running.
